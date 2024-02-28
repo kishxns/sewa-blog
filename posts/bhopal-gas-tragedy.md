@@ -1,6 +1,6 @@
 ---
 title: Bhopal Gas Tragedy
-subtitle: Hah ah ah a
+subtitle: A very sad event in life.
 ---
 
 ## Subject
